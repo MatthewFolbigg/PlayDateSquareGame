@@ -1,0 +1,14 @@
+{
+  "extension" : {
+    "identifier" : "com.panic.Playdate",
+    "name" : "Playdate"
+  },
+  "extensionTemplate" : "simulator",
+  "extensionValues" : {
+    "playdate.debugRequest" : "attach",
+    "playdate.main-path" : "source",
+    "playdate.output-path" : ".",
+    "playdate.product-name" : "SquareGame"
+  },
+  "identifier" : "E56AEBFA-794F-4016-AFA8-587389CA4F6D"
+}
